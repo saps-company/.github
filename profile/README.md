@@ -1,6 +1,6 @@
 # 🌟 Sapsco | Leading Innovation in IT Solutions 🌟
 
-![Sapsco Logo](https://example.com/logo.png) <!-- لینک به لوگوی شرکت -->
+![Sapsco Logo](https://sapsco.ir/sapsco.png) <!-- لینک به لوگوی شرکت -->
 
 ---
 
