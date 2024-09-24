@@ -44,21 +44,21 @@
 
 We'd love to hear from you! For more information or to discuss how we can work together, reach out via:
 
-- 🌐 **Website**: [sapsco.com](https://sapsco.com)
-- 📧 **Email**: [info@sapsco.com](mailto:info@sapsco.com)
+- 🌐 **Website**: [sapsco.ir](http://sapsco.ir)
+- 📧 **Email**: [support@sapsco.ir](mailto:support@sapsco.ir)
 - ☎️ **Phone**: +98 21 1234 5678
 
 ---
 
 ### 🤝 **Contributing**
 
-We welcome collaborations and suggestions. Feel free to [open an issue](https://github.com/sapsco/issues) or send us an email to get involved in our projects!
+We welcome collaborations and suggestions. Feel free to [open an issue](https://github.com/saps-company/issues) or send us an email to get involved in our projects!
 
 ---
 
 ### 🔗 **Useful Links**
 
-- 🖥️ [Sapsco GitHub](https://github.com/sapsco)
+- 🖥️ [Sapsco GitHub](https://github.com/saps-company)
 - 💼 [Sapsco LinkedIn](https://linkedin.com/company/sapsco)
 
 ---
@@ -101,21 +101,21 @@ We welcome collaborations and suggestions. Feel free to [open an issue](https://
 
 برای کسب اطلاعات بیشتر و همکاری با ما، لطفاً از طریق روش‌های زیر با ما در ارتباط باشید:
 
-- 🌐 **وب‌سایت**: [sapsco.com](https://sapsco.com)
-- 📧 **ایمیل**: [info@sapsco.com](mailto:info@sapsco.com)
+- 🌐 **وب‌سایت**: [sapsco.ir](http://sapsco.ir)
+- 📧 **ایمیل**: [support@sapsco.ir](mailto:support@sapsco.ir)
 - ☎️ **تلفن**: +98 21 1234 5678
 
 ---
 
 ### 🤝 **مشارکت**
 
-ما از همکاری و پیشنهادات استقبال می‌کنیم. برای مشارکت در پروژه‌های ما، می‌توانید [یک issue باز کنید](https://github.com/sapsco/issues) یا از طریق ایمیل با ما در تماس باشید.
+ما از همکاری و پیشنهادات استقبال می‌کنیم. برای مشارکت در پروژه‌های ما، می‌توانید [یک issue باز کنید](https://github.com/saps-company/issues) یا از طریق ایمیل با ما در تماس باشید.
 
 ---
 
 ### 🔗 **لینک‌های مفید**
 
-- 🖥️ [گیت‌هاب Sapsco](https://github.com/sapsco)
+- 🖥️ [گیت‌هاب Sapsco](https://github.com/saps-company)
 - 💼 [لینکدین Sapsco](https://linkedin.com/company/sapsco)
 
 ---
